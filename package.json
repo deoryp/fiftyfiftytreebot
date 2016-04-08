@@ -1,0 +1,23 @@
+{
+  "name": "fiftyfiftytreebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "@slack/client": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deoryp/fiftyfiftytreebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deoryp/fiftyfiftytreebot/issues"
+  },
+  "homepage": "https://github.com/deoryp/fiftyfiftytreebot#readme"
+}
